@@ -5,3 +5,5 @@ class abc{
 
 	};
 };
+
+class def extends abc{}
